@@ -1,9 +1,9 @@
 Microcontroller firmware for Boldport's Scarab
 ==============================================
 
-This code is for use with the Scarab project created by Boldport.
+This code is for use with the Scarab project created by [Boldport](https://boldport.com).
 
-The target is Microchip's ATtiny1614. The assumed development environment is MPLAB-X v5.30 or greater with the XC8 compiler. 
+The target is Microchip's [ATtiny1614](https://www.microchip.com/wwwproducts/en/ATtiny1614). The project is set up to be opened using MPLAB-X v5.30 or greater, together with the XC8 compiler. 
 
 Programming
 -----------
